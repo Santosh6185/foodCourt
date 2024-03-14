@@ -1,0 +1,112 @@
+{
+  "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+  "info": {
+    "id": "64947",
+    "name": "Shah Ji Foods",
+    "city": "11",
+    "slugs": {
+      "restaurant": "shahi-ji-fast-food-sector-40-greater-mohali",
+      "city": "chandigarh"
+    },
+    "cloudinaryImageId": "so8znikan33qg02w0vwk",
+    "address": "Booth 19 A, Sector 40 C, Sector 40, Chandigarh",
+    "areaName": "Sector 40",
+    "costForTwo": "20000",
+    "costForTwoMessage": "₹200 FOR TWO",
+    "cuisines": ["North Indian", "South Indian", "Chinese"],
+    "avgRating": 4.2,
+    "feeDetails": {},
+    "avgRatingString": "4.2",
+    "totalRatingsString": "5K+",
+    "promoted": true,
+    "adTrackingId": "cid=10526366~p=0~adgrpid=10526366#ag1~mp=SWIGGY_IN~bl=FOOD~eid=1f308b66-a309-4c6b-98fe-f53643580a9f~aet=RESTAURANT~aeid=64947~srvts=1705056992881~st=north indian",
+    "sla": {
+      "deliveryTime": 31,
+      "minDeliveryTime": 30,
+      "maxDeliveryTime": 35,
+      "lastMileTravel": 5.9,
+      "serviceability": "SERVICEABLE",
+      "rainMode": "RAIN_MODE_NONE",
+      "slaString": "30-35 MINS",
+      "lastMileTravelString": "5.9 km",
+      "iconType": "ICON_TYPE_EMPTY"
+    },
+    "availability": {
+      "opened": true,
+      "restaurantClosedMeta": {}
+    },
+    "aggregatedDiscountInfo": {
+      "header": "50% off",
+      "shortDescriptionList": [
+        {
+          "meta": "50% off | Use WELCOME50",
+          "discountType": "Percentage",
+          "operationType": "RESTAURANT"
+        }
+      ],
+      "descriptionList": [
+        {
+          "meta": "50% off up to ₹90 | Use code WELCOME50",
+          "discountType": "Percentage",
+          "operationType": "RESTAURANT"
+        }
+      ]
+    },
+    "badges": {
+      "imageBadges": [
+        {
+          "imageId": "v1695133679/badges/Pure_Veg111.png",
+          "description": "pureveg"
+        }
+      ]
+    },
+    "aggregatedDiscountInfoV2": {
+      "header": "50% OFF",
+      "shortDescriptionList": [
+        {
+          "meta": "50% off upto ₹90",
+          "discountType": "Percentage",
+          "operationType": "RESTAURANT"
+        }
+      ],
+      "descriptionList": [
+        {
+          "meta": "50% off up to ₹90 | Use code WELCOME50",
+          "discountType": "Percentage",
+          "operationType": "RESTAURANT"
+        }
+      ],
+      "headerType": "HEADER_TYPE_1"
+    },
+    "ratingSlab": "RATING_SLAB_5",
+    "orderabilityCommunication": {
+      "title": {},
+      "subTitle": {},
+      "message": {},
+      "customIcon": {}
+    },
+    "cartOrderabilityNudgeBanner": {
+      "parameters": {},
+      "presentation": {}
+    }
+  },
+  "analytics": {
+    "screenName": "explore",
+    "context": "{\"tid\":\"06eed342-78df-8b7b-adf2-5f5ad0b3aae4\",\"grid\":\"e52efc71-a5bb-4690-ae63-5e3736bb0afb\",\"queryUniqueId\":\"42e3d1fa-1c6c-1da2-997c-268e1f6d8683\",\"query\":\"North Indian\",\"adTrackingId\":\"cid=10526366~p=0~adgrpid=10526366#ag1~mp=SWIGGY_IN~bl=FOOD~eid=1f308b66-a309-4c6b-98fe-f53643580a9f~aet=RESTAURANT~aeid=64947~srvts=1705056992881~st=north indian\"}",
+    "objectValue": "64947",
+    "impressionObjectName": "impression-restaurant-ad",
+    "clickObjectName": "click-restaurant-ad"
+  },
+  "ctaWithParams": {
+    "link": "swiggy://menu",
+    "type": "DEEPLINK",
+    "params": {
+      "restaurant_id": "64947",
+      "query": "North Indian",
+      "sourceSessionId": "bjs5161e-7d81-40f1-88e5-cdeecec60317",
+      "source": "SEARCH",
+      "isSld": "false",
+      "sourceRequestId": "65a11adf219ea267ffa8a042b05d6461"
+    }
+  }
+}
